@@ -1,0 +1,18 @@
+
+
+
+git add filename (single file)
+
+git add . (all the files which you have modifiled )
+
+git commit -m "commit message name" " if you want to add the commit message to the code which you have then we to use this command
+
+git push ( if we wanted to push the changes into repo github)
+
+git pull (if we wanted to pull the changes from the repo)
+
+git checkout branchname ( if we wanted to checkout to another branch then we have to use this command)
+
+git remote add origin https://github.com/venkataguvi/github.git (this is basically when we create the new repo)
+
+git push --set-upstream origin branchname (this command will automaically suggest by git when you are trying to push to new branch )
